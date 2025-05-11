@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem "csv"        # Pour gérer la base de données CSV
+gem "pry"        # Pour le debugging interactif
+gem "colorize"   # Pour mettre un peu de couleur dans le terminal
